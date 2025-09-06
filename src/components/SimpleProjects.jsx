@@ -72,7 +72,7 @@ const SimpleProjects = () => {
       github: "https://github.com/darsh7778/Event-Ticketing-Website.git",
       live: "https://event-ticketing-website.vercel.app/",
       color: "#10b981",
-      image: "blob:https://www-towrco-in.filesusr.com/869d8ebf-3f70-448a-97b8-71323a788f15",
+      image: "https://civil-silver-6hx3goojum.edgeone.app/Screenshot%202025-09-06%20at%2010.17.40%E2%80%AFPM.png",
       category: 'frontend'
     },
     {

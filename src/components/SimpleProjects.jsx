@@ -191,7 +191,6 @@ const SimpleProjects = () => {
                 boxShadow: activeFilter === filter.id 
                   ? '0 4px 12px rgba(59, 130, 246, 0.4)'
                   : 'none',
-                border: isDark ? '1px solid rgba(96, 165, 250, 0.3)' : '1px solid rgba(59, 130, 246, 0.2)',
                 display: 'flex',
                 alignItems: 'center',
                 gap: '0.5rem'
@@ -315,7 +314,6 @@ const SimpleProjects = () => {
                 backgroundImage: project.image ? `url(${project.image})` : 'none',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
-                backgroundBlendMode: isDark ? 'normal' : 'overlay',
                 overflow: 'hidden'
               }}>
                 <h3 style={{

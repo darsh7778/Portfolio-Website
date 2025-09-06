@@ -172,15 +172,7 @@ const SimpleContact = () => {
             textShadow: isDark ? '0 0 20px #00ffff' : 'none',
             marginBottom: '1rem'
           }}>
-            Get In <span style={{
-              background: isDark 
-                ? 'linear-gradient(135deg, #ff00ff 0%, #ffff00 50%, #00ff00 100%)'
-                : 'linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #06b6d4 100%)',
-              WebkitBackgroundClip: 'text', 
-              WebkitTextFillColor: 'transparent',
-              backgroundClip: 'text',
-              textShadow: isDark ? '0 0 20px #ff00ff' : 'none'
-            }}>Touch</span>
+            Get In Touch
           </h2>
           <p style={{
             fontSize: '1.2rem',

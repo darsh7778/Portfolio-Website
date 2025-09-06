@@ -88,7 +88,7 @@ const Navbar = () => {
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
               backgroundClip: 'text',
-              textShadow: isDark ?  '0 0 20px rgba(135, 206, 235, 1)' : 'none',
+              textShadow: isDark ? '0 0 20px rgba(135, 206, 235, 1)' : 'none',
               color: isDark ? '#d1d5db' : '#374151',
               cursor: 'pointer',
               fontFamily: 'Inter, sans-serif',
